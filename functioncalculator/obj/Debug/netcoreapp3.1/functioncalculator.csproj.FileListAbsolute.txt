@@ -1,0 +1,13 @@
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.exe
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.deps.json
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.runtimeconfig.json
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.dll
+C:\Users\Jean\Desktop\functioncalculator\bin\Debug\netcoreapp3.1\functioncalculator.pdb
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.AssemblyInfo.cs
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.dll
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.pdb
+C:\Users\Jean\Desktop\functioncalculator\obj\Debug\netcoreapp3.1\functioncalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.exe
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.deps.json
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.runtimeconfig.json
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.dll
+C:\Users\Jean\Desktop\ConversorTemperatura\bin\Debug\netcoreapp3.1\ConversorTemperatura.pdb
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.dll
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.pdb
+C:\Users\Jean\Desktop\ConversorTemperatura\obj\Debug\netcoreapp3.1\ConversorTemperatura.genruntimeconfig.cache
