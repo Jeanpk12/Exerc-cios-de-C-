@@ -1,0 +1,13 @@
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.exe
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.deps.json
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.runtimeconfig.json
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.dll
+C:\Users\Jean\Desktop\JogoAdivinhacao\bin\Debug\netcoreapp3.1\JogoAdivinhacao.pdb
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.dll
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.pdb
+C:\Users\Jean\Desktop\JogoAdivinhacao\obj\Debug\netcoreapp3.1\JogoAdivinhacao.genruntimeconfig.cache

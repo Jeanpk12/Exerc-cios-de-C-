@@ -1,0 +1,13 @@
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.AssemblyInfo.cs
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.exe
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.deps.json
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.runtimeconfig.json
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.dll
+C:\Users\Jean\Desktop\JodoAdivinhacao\bin\Debug\netcoreapp3.1\JodoAdivinhacao.pdb
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.dll
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.pdb
+C:\Users\Jean\Desktop\JodoAdivinhacao\obj\Debug\netcoreapp3.1\JodoAdivinhacao.genruntimeconfig.cache
